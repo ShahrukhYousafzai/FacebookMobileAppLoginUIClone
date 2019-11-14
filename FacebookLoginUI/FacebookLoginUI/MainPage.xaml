@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="FacebookLoginUI.MainPage">
+
+    <StackLayout>
+        <ScrollView>
+            <StackLayout>
+                <Grid>
+                    <StackLayout VerticalOptions="Center" BackgroundColor="DarkBlue" HeightRequest="250" >
+                        <Image Source="Heart" WidthRequest="20"  VerticalOptions="EndAndExpand" Margin="0,-20,0,0" ScaleY="1.5" ScaleX="1.3" />
+
+                        <Image Source="FacebookCircledLogo" WidthRequest="100"  VerticalOptions="StartAndExpand" />
+
+                    </StackLayout>
+                    <AbsoluteLayout>
+                        <Image Source="FBLike" AbsoluteLayout.LayoutBounds="0.1, 0.3, 80, 80" AbsoluteLayout.LayoutFlags="PositionProportional" Rotation="-30" />
+                        <Image Source="Image" AbsoluteLayout.LayoutBounds="0.8, 0.2, 80, 80" AbsoluteLayout.LayoutFlags="PositionProportional" Rotation="-20" />
+                        <Image Source="Image" AbsoluteLayout.LayoutBounds="0.9, 0.8, 80, 80" AbsoluteLayout.LayoutFlags="PositionProportional" Rotation="-5" />
+
+                    </AbsoluteLayout>
+                </Grid>
+
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Text="English " FontSize="Medium"  />
+                    <Label Text=" • اردو • " FontSize="Medium"  />
+                    <Label Text="More..." FontSize="Medium" TextColor="DarkBlue"  />
+
+
+                </StackLayout>
+                <StackLayout Padding="40" Spacing="20">
+                    <Entry Placeholder="Phone number or email address" HeightRequest="60"   />
+                    <Entry Placeholder="Password" HeightRequest="60"  />
+
+                    <Button Text="Log in" HeightRequest="50" BackgroundColor="DarkBlue" TextColor="White" CornerRadius="5" />
+                    <Label Text="Forgotten password?" TextColor="DarkBlue" HorizontalOptions="Center" FontSize="Medium" />
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                        <BoxView BackgroundColor="#555" HorizontalOptions="FillAndExpand" VerticalOptions="Center" HeightRequest="1" />
+                        <Label Text="OR" TextColor="#555" HorizontalOptions="Center"  VerticalOptions="Center" FontSize="Medium" />
+                        <BoxView BackgroundColor="#555" HorizontalOptions="FillAndExpand" VerticalOptions="Center" HeightRequest="1"  />
+
+                    </StackLayout>
+                    <Button Text="Create New Facebook Account" HeightRequest="50" BackgroundColor="Green" TextColor="White" CornerRadius="5" HorizontalOptions="Center" WidthRequest="320" />
+
+                </StackLayout>
+            </StackLayout>
+            
+        </ScrollView>
+
+     
+    </StackLayout>
+
+</ContentPage>

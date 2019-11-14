@@ -1,0 +1,13 @@
+C:\Main\Projects\UISnippets\FacebookLoginUI\FacebookLoginUI\FacebookLoginUI\bin\Debug\netstandard2.0\FacebookLoginUI.deps.json
+C:\Main\Projects\UISnippets\FacebookLoginUI\FacebookLoginUI\FacebookLoginUI\bin\Debug\netstandard2.0\FacebookLoginUI.dll
+C:\Main\Projects\UISnippets\FacebookLoginUI\FacebookLoginUI\FacebookLoginUI\bin\Debug\netstandard2.0\ref\FacebookLoginUI.dll
+C:\Main\Projects\UISnippets\FacebookLoginUI\FacebookLoginUI\FacebookLoginUI\bin\Debug\netstandard2.0\FacebookLoginUI.pdb
+C:\Main\Projects\UISnippets\FacebookLoginUI\FacebookLoginUI\FacebookLoginUI\obj\Debug\netstandard2.0\FacebookLoginUI.csprojAssemblyReference.cache
+C:\Main\Projects\UISnippets\FacebookLoginUI\FacebookLoginUI\FacebookLoginUI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Main\Projects\UISnippets\FacebookLoginUI\FacebookLoginUI\FacebookLoginUI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Main\Projects\UISnippets\FacebookLoginUI\FacebookLoginUI\FacebookLoginUI\obj\Debug\netstandard2.0\FacebookLoginUI.AssemblyInfoInputs.cache
+C:\Main\Projects\UISnippets\FacebookLoginUI\FacebookLoginUI\FacebookLoginUI\obj\Debug\netstandard2.0\FacebookLoginUI.AssemblyInfo.cs
+C:\Main\Projects\UISnippets\FacebookLoginUI\FacebookLoginUI\FacebookLoginUI\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Main\Projects\UISnippets\FacebookLoginUI\FacebookLoginUI\FacebookLoginUI\obj\Debug\netstandard2.0\FacebookLoginUI.dll
+C:\Main\Projects\UISnippets\FacebookLoginUI\FacebookLoginUI\FacebookLoginUI\obj\Debug\netstandard2.0\ref\FacebookLoginUI.dll
+C:\Main\Projects\UISnippets\FacebookLoginUI\FacebookLoginUI\FacebookLoginUI\obj\Debug\netstandard2.0\FacebookLoginUI.pdb
